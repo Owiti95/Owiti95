@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Owiti95
-- 👀 I’m interested in web development..
+- 👀 I’m a fullstack web developer ..
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: hanningtonowiti@gmail.com
 
