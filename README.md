@@ -48,10 +48,9 @@ I believe in learning by building, and I’m excited to collaborate with others 
 
 ### 📫 How to reach me:
 
-- Email: [your@email.com]
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Email: hanningtonowiti@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hannington-owiti-2b3751188/
+- Portfolio: https://hanningtonowiti.com
 
 ---
 
