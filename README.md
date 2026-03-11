@@ -12,7 +12,7 @@
 
 ### 🌱 About Me
 
-🔭 I’m currently learning **Full-Stack Software Engineering** at **ALX [Program]**.  
+
 💖 I'm passionate about: **solving real-world problems, building useful tools and working in the cloud**  
 
 ---
