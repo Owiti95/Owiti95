@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hannington Owiti</h1>
-<h3 align="center">A passionate Full stack web developer and ALX AWS cloud computing Learner</h3>
+<h3 align="center">A passionate Full stack web developer and AWS cloud computing enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge" />
